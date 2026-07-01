@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.11+-blue) ![LiveKit](https://img.shields.io/badge/LiveKit-Agents-green) ![MCP](https://img.shields.io/badge/MCP-Enabled-orange) ![Gemini](https://img.shields.io/badge/Google-Gemini-red) ![License](https://img.shields.io/badge/License-MIT-blue)
 # 🎙️ LiveKit Voice Agents
 
 A collection of Voice AI agents built with **LiveKit Agents**, demonstrating conversational AI using speech recognition, LLMs, text-to-speech, and the **Model Context Protocol (MCP)**.
