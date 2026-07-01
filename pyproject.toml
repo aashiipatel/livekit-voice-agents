@@ -1,0 +1,21 @@
+[project]
+name = "voice-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "livekit-agents[mcp]>=1.6.4",
+    "livekit-plugins-anthropic>=1.6.4",
+    "livekit-plugins-assemblyai>=1.6.4",
+    "livekit-plugins-azure>=1.6.4",
+    "livekit-plugins-cartesia>=1.6.4",
+    "livekit-plugins-deepgram>=1.6.4",
+    "livekit-plugins-elevenlabs>=1.6.4",
+    "livekit-plugins-google>=1.6.4",
+    "livekit-plugins-groq>=1.6.4",
+    "livekit-plugins-noise-cancellation>=0.2.6",
+    "livekit-plugins-silero>=1.6.4",
+    "livekit-plugins-turn-detector>=1.6.4",
+    "python-dotenv>=1.2.2",
+]
